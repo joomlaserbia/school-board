@@ -1,0 +1,15 @@
+{
+    "name": "momir/school-board",
+    "description": "Test project for student school grades",
+    "type": "library",
+    "require": {
+        "php": "7.0.10"
+    },
+    "authors": [
+        {
+            "name": "joomlaserbia",
+            "email": "despotovic.m@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
